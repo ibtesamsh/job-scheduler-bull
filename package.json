@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "bull": "^4.16.5",
+    "faker": "^6.6.6"
+  }
+}
